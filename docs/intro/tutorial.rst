@@ -26,9 +26,7 @@ If you're already familiar with other languages, and want to learn Python
 quickly, we recommend reading through `Dive Into Python 3`_.  Alternatively,
 you can follow the `Python Tutorial`_.
 
-If you're new to programming and want to start with Python, you may find useful
-the online book `Learn Python The Hard Way`_. You can also take a look at `this
-list of Python resources for non-programmers`_.
+You can also take a look at `this list of Python resources for non-programmers`_.
 
 .. _Python: https://www.python.org/
 .. _this list of Python resources for non-programmers: https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
